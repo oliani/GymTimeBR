@@ -17,7 +17,6 @@
   min-height: 426px;
   margin-top: 0;
   margin-bottom: 20px;
-  height: auto;
 }
 
 .u-section-2 .u-tab-list-1 {
@@ -137,6 +136,7 @@
 @media (max-width: 1199px) {
   .u-section-2 .u-tabs-1 {
     min-height: 450px;
+    height: auto;
   }
 
   .u-section-2 .u-container-layout-1 {
